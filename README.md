@@ -47,8 +47,7 @@ Wanted to test around with the LED, compass, and shake.
 ---
 
 ### Choose At Least Three of the Following to Include:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-- What makes your project stand out?
+- Why did you build this project? => I wanted to learn more about how the Finch robot detects shaking, how compass sensor works, and how we can use LEDs to visually confirm that everything is functioning correctly.
+- What problem does it solve? => It helps people see how the Finch robot's sensors work by using lights and movement to show when the robot is shaking or which direction it is facing.
+- What did you learn? => I learned how to control the Finch robot using not only SNAP, but also JAVA. I now know how to light up specific LEDs, use a compass sensor, detect when the robot is shaken, and use these features together to create an interactive program.
+- What makes your project stand out? => This is NOT generic. We combined multiple Finch robot features like LED display, compass, motion, and shake detection into one interactive program. 
