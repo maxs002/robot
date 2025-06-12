@@ -6,8 +6,8 @@
 | Completed | Task         | Description |
 |:---------:| :-----------:|:------------|
 |    ✅     | Familiarize  | Learn how to: <ul><li>Connect to the robot</li><li>Interpret what built-in sensors detect</li><li>Program basics in SNAP!</li><li>Setup local developing environment to code in Java</li></ul>|
-|    ✅     | 3D Design    |             |
-|    ✅     | Develop Code |             |
+|    ✅     | 3D Design    | Created my own version vortex cannon|
+|    ✅     | Develop Code | Combined multiple Finch robot features like LED display, compass, motion, and shake detection into one interactive program.|
 
 ---
 
