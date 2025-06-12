@@ -41,7 +41,7 @@ Wanted to test around with the LED, compass, and shake.
 <h2>TEST</h2>
 
 - A lot of the time, the shake would not work. Compass, Motion, and LEDs were always working! 
-</h2>IMPROVE</h2>
+<h2>IMPROVE</h2>
 
 - Kept working on the shake. Read more on how the shaking works to see what I am missing. 
 
