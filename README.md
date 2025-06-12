@@ -24,6 +24,7 @@ Wanted to test around with the LED, compass, and shake.
 
 ###### My experience with the Engineering Design Cycle: 
 <h2>ASK</h2>
+
 - Wanted to make something using the shake feature.
 
 <h2>RESEARCH</h2>
