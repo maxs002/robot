@@ -23,13 +23,21 @@ Wanted to test around with the LED, compass, and shake.
 <img src="design_cycle.png" alt="design cycle" width="300" height="300">
 
 ###### My experience with the Engineering Design Cycle: 
-**ASK** => Wanted to make something using the shake feature.
-**RESEARCH** => searched how the shake feature works, and also learnt about the compass.
-**IMAGINE** => I imagined that if the robot shook, it would stop all motions.
-**PLAN** => Planned to incorporate LEDs + Compass + Motion + Shake Detection.
-**CREATE** => Created small codes for each. For example: A code that tested the shaking sensor, the compass, LEDs, and also motion like forwards.
-**TEST** => A lot of the time, the shake would not work. Compass, Motion, and LEDs were always working! 
-**IMPROVE** => Kept working on the shake. Read more on how the shaking works to see what I am missing. 
+<h2>ASK</h2>
+- Wanted to make something using the shake feature.
+
+<h2>RESEARCH</h2>
+- searched how the shake feature works, and also learnt about the compass.
+<h2>IMAGINE</h2>  
+- I imagined that if the robot shook, it would stop all motions.
+<h2>PLAN</h2> 
+-Planned to incorporate LEDs + Compass + Motion + Shake Detection.
+<h2>CREATE</h2>
+-Created small codes for each. For example: A code that tested the shaking sensor, the compass, LEDs, and also motion like forwards.
+<h2>TEST</h2>
+-A lot of the time, the shake would not work. Compass, Motion, and LEDs were always working! 
+</h2>IMPROVE</h2>
+-Kept working on the shake. Read more on how the shaking works to see what I am missing. 
 
 ---
 
