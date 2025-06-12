@@ -28,20 +28,20 @@ Wanted to test around with the LED, compass, and shake.
 
 ### Code to Highlight
 ```java
-public static void followLine(Finch f) {
-	int left = f.getLine("L");
-	int right = f.getLine("R");
-	
-	System.out.println("left: " + left + " right: " + right);
-	if (left < 90) {
-		f.setMotors(0, 10);
-	} else if (right > 90) {
-		f.setMotors(10, 0);
-	} else {
-		f.setMotors(10, 10);
-	}
-	f.pause(.1);
-}
+        if (userInput < 1 || userInput > 25) {
+            System.out.println("Invalid input. Please enter a number from 1 to 25.");
+            return;
+        }
+        setDisplay(led, userInput, 1);
+        bird.setDisplay(led);
+        while (!bird.isShaking()) {
+            System.out.println("Compass Heading: " + bird.getCompass());
+            bird.setMove("F", 999, 50);
+            bird.pause(10);
+        }
+        
+        bird.setDisplay(new int[25]);
+    }
 ```
 
 ---
